@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Job Portal Backend API
 
 A comprehensive backend API for a job portal application built with Node.js, Express.js, and MongoDB.
@@ -245,3 +246,6 @@ Users with 80%+ completion are marked as having completed profiles.
 - Configure proper CORS origins for your frontend domain
 
 This backend is designed to be scalable and can handle multiple users globally with proper deployment infrastructure.
+=======
+# Backend
+>>>>>>> 0127850ae9792b63bf68cade651315c08bbe98fb
